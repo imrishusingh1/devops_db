@@ -1,0 +1,7 @@
+ id INT_P_KEY | name VARCHAR(50)    |  age INT | salary NUMBER  | image BLOB    |
+----------------------------------------------------------------------------------
+    1      | Rishu Kumar Singh | 23         | 1000000000      | ./Rishu_K_S.jpg |
+    2      | Annie Singh       | 25         | 2000000000      | ./Annie_S.jpg   |
+    3      | Rishu Singh Rajput| 24         | 4000000000      | ./Rishu_S_R.jpg |
+    4      | Rishu Singh       | 25         | 10000000000     | ./Rishu_s.jpg   |
+----------------------------------------------------------------------------------
