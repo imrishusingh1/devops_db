@@ -1,13 +1,3 @@
-// /*
-
-// /// RUN THIS COMMAND ALWAYS
-// cd C:\Users\imris\Desktop\DevOps\cpp-db-wrapper
-
-// mvn clean
-// mvn package
-
-// java -jar target\cpp-db-wrapper-1.0-SNAPSHOT.jar
-// */
 
 package com.rishu;
 
@@ -66,3 +56,13 @@ public class Compiler {
 
     }
 }
+// /*
+
+// /// RUN THIS COMMAND ALWAYS
+// cd C:\Users\imris\Desktop\DevOps\cpp-db-wrapper
+
+// mvn clean
+// mvn package
+
+// java -jar target\cpp-db-wrapper-1.0-SNAPSHOT.jar
+// */

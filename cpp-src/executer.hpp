@@ -246,10 +246,10 @@ namespace executer {
                 table_found = true;
                 continue;
             }
-            if (line == "ENDTABLE") {
-                break;
-            }
             if (table_found) {
+                if (line == "ENDTABLE") {
+                    break;
+                }
                 istringstream iss(line);
                 string colname, dtype, primary;
                 iss >> colname >> dtype >> primary;
